@@ -1,5 +1,5 @@
 # A/B Test Analysis — One-Page Checkout
-
+![Results](results.png)
 An end-to-end analysis of a conversion experiment: sizing it before it runs, reading it correctly when it finishes, and writing the recommendation that follows.
 
 **Note on the data:** traffic is simulated, with a known effect deliberately built in, so the analysis can be checked against ground truth. This is a methodology exercise, not a report on a live experiment.
